@@ -12,3 +12,15 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 É possível acompanhar tudo através do Youtube de graça.
 
+
+
+
+
+
+
+-----
+
+Pessoas participantes:
+
+* Teo
+* Raroma
