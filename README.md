@@ -4,6 +4,8 @@
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
+Confira tudo o que temos no nosso Youtube. É gratis! Segue o link:
+[Curso Git 2026](https://youtube.com/@teomewhy)
 
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
